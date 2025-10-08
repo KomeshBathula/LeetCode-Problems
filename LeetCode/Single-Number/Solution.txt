@@ -1,0 +1,33 @@
+class Solution {
+    public int singleNumber(int[] nums) {
+        /*
+        //using hashmap O(n)
+        HashMap<Integer, Integer> hm = new HashMap<>();
+        for(int i : nums)
+            hm.put(i, hm.getOrDefault(i, 0) + 1);
+        for(int i = 0; i < nums.length;i++){
+            if(hm.get(nums[i]) == 1) return nums[i];
+        }
+        return 0;
+        */
+
+
+        //this is one way but better to avoid because of creating a new array 
+        //if the number range exceeds then this will be of no use
+
+        /*
+        if(nums.length == 1) return nums[0];
+        int arr[] = new int[nums.length + 1];
+        for(int i : nums) arr[i] ++;
+        for(int i : nums) if(arr[i] == 1) return i;
+        return -1;
+        */
+
+        //xor can also be done
+        int xor = 0;
+        for(int i = 0;i<nums.length;i++){
+            xor ^= nums[i];
+        }
+        return xor;
+    }
+}
