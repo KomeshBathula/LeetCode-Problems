@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 ## Two Pointers
 |  |
@@ -16,4 +17,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
