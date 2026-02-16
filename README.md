@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0190-reverse-bits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
