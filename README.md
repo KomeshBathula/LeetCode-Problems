@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [1669-merge-in-between-linked-lists](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
