@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## String
 | Problem Name | Difficulty |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1669-merge-in-between-linked-lists/) | Medium |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
