@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3861-minimum-capacity-box](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3861-minimum-capacity-box/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
