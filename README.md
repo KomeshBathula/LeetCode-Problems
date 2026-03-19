@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
+| [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0237-delete-node-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1669-merge-in-between-linked-lists/) | Medium |
