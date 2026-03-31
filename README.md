@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [1669-merge-in-between-linked-lists](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1721-swapping-nodes-in-a-linked-list/) | Medium |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0155-min-stack/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
