@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0705-design-hashset](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0706-design-hashmap/) | Easy |
+| [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Linked List
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
