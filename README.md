@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2833-furthest-point-from-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3884-first-matching-character-from-both-ends](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2833-furthest-point-from-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 <!---LeetCode Topics End-->
