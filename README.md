@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0706-design-hashmap/) | Easy |
 | [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
+| [0994-rotting-oranges](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0107-binary-tree-level-order-traversal-ii/) | Medium |
+| [0994-rotting-oranges](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0994-rotting-oranges](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
