@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
