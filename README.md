@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [1009-complement-of-base-10-integer](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0706-design-hashmap/) | Easy |
 | [1345-jump-game-iv](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1345-jump-game-iv/) | Hard |
 | [2540-minimum-common-value](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
