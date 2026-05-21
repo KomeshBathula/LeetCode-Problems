@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2906-construct-product-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
 | [3884-first-matching-character-from-both-ends](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## Greedy
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
@@ -301,4 +304,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 <!---LeetCode Topics End-->
