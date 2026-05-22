@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0450-delete-node-in-a-bst](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
