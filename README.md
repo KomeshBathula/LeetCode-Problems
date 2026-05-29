@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3194-find-words-containing-character](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3194-find-words-containing-character) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Brainteaser
