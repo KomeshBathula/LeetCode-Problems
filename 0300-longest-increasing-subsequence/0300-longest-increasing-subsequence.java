@@ -1,5 +1,24 @@
 class Solution {
 
+    private int lowerBound(ArrayList<Integer> temp, int num) {
+        int left = 0, right = temp.size() - 1;
+        
+        int ans = 0;
+
+        while (left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if (temp.get(mid) >= num) {
+                ans = mid;
+                right = mid - 1;
+            }
+            else 
+                left = mid + 1;
+        }
+
+        return ans;
+    }
+
     private int helper(int ind, int prev_ind, int[] nums, int[][] dp) {
         // base case to stop recursion which gives 0 length
         if (ind == nums.length) return 0;
@@ -57,6 +76,8 @@ class Solution {
         // Memoization too didn't work because of Test Cases
 
         // Tabulation 
+        /*
+
         int[][] dp = new int[n + 1][n + 1];
 
         for (int ind = n - 1; ind >= 0; ind--) {
@@ -71,5 +92,22 @@ class Solution {
         }
 
         return dp[0][0];
+
+        */
+
+        // Binary Search solution which gives O(n log n)
+        ArrayList<Integer> temp = new ArrayList<>();
+        temp.add(nums[0]);
+
+        for (int i = 1; i < nums.length; i++) {
+            if (nums[i] > temp.get(temp.size() - 1))
+                temp.add(nums[i]);
+            else {
+                int ind = lowerBound(temp, nums[i]);
+                temp.set(ind, nums[i]);
+            }
+        }
+
+        return temp.size();
     }
 }
