@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 ## Merge Sort
