@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3546-equal-sum-grid-partition-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3660-jump-game-ix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3660-jump-game-ix/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 | [3884-first-matching-character-from-both-ends](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3884-first-matching-character-from-both-ends/) | Easy |
 ## String
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [3488-closest-equal-element-queries](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3488-closest-equal-element-queries/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -239,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2784-check-if-array-is-good/) | Easy |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
