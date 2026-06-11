@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0070-climbing-stairs](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
