@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0234-palindrome-linked-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -281,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
+| [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0070-climbing-stairs](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
