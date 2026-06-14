@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0796-rotate-string/) | Easy |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
+| [0132-palindrome-partitioning-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
