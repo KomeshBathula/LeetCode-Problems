@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
+| [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
