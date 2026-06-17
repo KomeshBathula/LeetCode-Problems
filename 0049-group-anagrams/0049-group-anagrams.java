@@ -18,12 +18,6 @@ class Solution {
             }
         }
 
-        List<List<String>> result = new ArrayList<>();
-
-        for (List<String> list : map.values()) {
-            result.add(list);
-        }
-
-        return result;
+        return new ArrayList<>(map.values());
     }
 }
