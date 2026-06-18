@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0070-climbing-stairs](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
+| [1344-angle-between-hands-of-a-clock](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
