@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3427-sum-of-variable-length-subarrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/3427-sum-of-variable-length-subarrays) |
