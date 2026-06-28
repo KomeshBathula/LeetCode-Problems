@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
 | [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [1833-maximum-ice-cream-bars](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
