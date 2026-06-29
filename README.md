@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1861-rotating-the-box/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2126-destroying-asteroids/) | Medium |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2418-sort-the-people](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2418-sort-the-people/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
