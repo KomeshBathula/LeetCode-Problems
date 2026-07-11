@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1345-jump-game-iv](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1192-critical-connections-in-a-network/) | Hard |
 | [1306-jump-game-iii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0721-accounts-merge](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0721-accounts-merge/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [2685-count-the-number-of-complete-components](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
@@ -447,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0547-number-of-provinces/) | Medium |
 | [0841-keys-and-rooms](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0841-keys-and-rooms/) | Medium |
 | [1192-critical-connections-in-a-network](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1192-critical-connections-in-a-network/) | Hard |
+| [2685-count-the-number-of-complete-components](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
