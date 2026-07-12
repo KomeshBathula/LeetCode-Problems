@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0198-house-robber](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
@@ -367,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
+| [0198-house-robber](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
