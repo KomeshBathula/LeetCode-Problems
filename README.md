@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0200-number-of-islands](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0209-minimum-size-subarray-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
