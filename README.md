@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1306-jump-game-iii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1306-jump-game-iii/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0706-design-hashmap/) | Easy |
 | [0721-accounts-merge](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0721-accounts-merge/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [2418-sort-the-people](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2418-sort-the-people/) | Easy |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0721-accounts-merge/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
