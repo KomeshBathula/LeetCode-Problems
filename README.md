@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0213-house-robber-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0115-distinct-subsequences/) | Hard |
 | [0132-palindrome-partitioning-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0198-house-robber](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
