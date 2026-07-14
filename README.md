@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0922-sort-array-by-parity-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0498-diagonal-traverse](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0498-diagonal-traverse/) | Medium |
 | [0733-flood-fill](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
+| [0931-minimum-falling-path-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -380,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0213-house-robber-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [3660-jump-game-ix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3660-jump-game-ix/) | Medium |
