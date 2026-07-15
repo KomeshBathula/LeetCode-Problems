@@ -24,10 +24,31 @@ class Solution {
     }
 
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> list = new ArrayList<>();
+        // List<Integer> list = new ArrayList<>();
 
-        helper(root, list);
+        // helper(root, list);
 
-        return list;
+        // return list;
+
+        // iterative approach
+
+        List<Integer> result = new ArrayList<>();
+        Stack<TreeNode> st = new Stack<>();
+        TreeNode node = root;
+        while (true) {
+            if (node != null) {
+                st.push(node);
+                node = node.left;
+            }
+            else {
+                if (st.isEmpty()) 
+                    break;
+                TreeNode temp = st.pop();
+                result.add(temp.val);
+                node = temp.right;
+            }
+        }
+
+        return result;
     }
 }
