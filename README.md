@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2418-sort-the-people](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2418-sort-the-people/) | Easy |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1345-jump-game-iv](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1345-jump-game-iv/) | Hard |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2418-sort-the-people](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2418-sort-the-people/) | Easy |
 | [2540-minimum-common-value](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
