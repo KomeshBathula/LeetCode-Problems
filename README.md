@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
 | [0496-next-greater-element-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0498-diagonal-traverse/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0705-design-hashset](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0706-design-hashmap/) | Easy |
 | [0721-accounts-merge](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0721-accounts-merge/) | Medium |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0396-rotate-function](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0396-rotate-function/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0628-maximum-product-of-three-numbers](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0721-accounts-merge/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
