@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0733-flood-fill/) | Easy |
 | [0860-lemonade-change](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [0931-minimum-falling-path-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0994-rotting-oranges/) | Medium |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0190-reverse-bits](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0190-reverse-bits) |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Bit Manipulation
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0721-accounts-merge/) | Medium |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [0922-sort-array-by-parity-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0922-sort-array-by-parity-ii/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -510,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -533,9 +538,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0877-stone-game](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0877-stone-game/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
