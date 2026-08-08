@@ -1,15 +1,17 @@
 class Solution {
-    private void mergeSort(int low, int high, int[] nums) {
+    private void mergeSort(int low, int high, int[] nums, int[] temp) {
         if (low >= high) return;
         // use this formula to bypass any overflow errors of integer
         int mid = low + (high - low) / 2;
-        mergeSort(low, mid, nums);
-        mergeSort(mid + 1, high, nums);
-        merge(low, mid, high, nums);
+        mergeSort(low, mid, nums, temp);
+        mergeSort(mid + 1, high, nums, temp);
+        merge(low, mid, high, nums, temp);
     }
 
-    private void merge(int low, int mid, int high, int[] arr) {
-        int[] temp = new int[arr.length];
+    private void merge(int low, int mid, int high, int[] arr, int[] temp) {
+        // using one temp array that will be reused everywhere
+        
+        // int[] temp = new int[arr.length];
         int left = low, right = mid + 1, idx = low;;
 
         while (left <= mid && right <= high) {
@@ -38,7 +40,9 @@ class Solution {
     }
 
     public int[] sortArray(int[] nums) {
-        mergeSort(0, nums.length - 1, nums);
+        // create one temp array to be reused in every recursive call 
+        int[] temp = new int[nums.length];
+        mergeSort(0, nums.length - 1, nums, temp);
         return nums;
     }
 }
