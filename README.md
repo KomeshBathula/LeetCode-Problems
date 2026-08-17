@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0014-longest-common-prefix/) | Easy |
+| [0015-3sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0061-rotate-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
