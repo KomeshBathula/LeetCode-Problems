@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0120-triangle/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
+| [0169-majority-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0198-house-robber](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
 | [3719-longest-balanced-subarray-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3719-longest-balanced-subarray-i/) | Medium |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0169-majority-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0496-next-greater-element-i](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0496-next-greater-element-i/) | Easy |
 | [0705-design-hashset](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0705-design-hashset/) | Easy |
 | [0706-design-hashmap](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0706-design-hashmap/) | Easy |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
+| [0169-majority-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0475-heaters](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0475-heaters/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0721-accounts-merge](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0721-accounts-merge/) | Medium |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -570,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0912-sort-an-array/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
