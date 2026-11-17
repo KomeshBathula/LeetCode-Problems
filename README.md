@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0048-rotate-image](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0079-word-search/) | Medium |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0148-sort-list](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/KomeshBathula/LeetCode-Problems/tree/master/0190-reverse-bits) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0022-generate-parentheses/) | Medium |
 | [0044-wildcard-matching](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0044-wildcard-matching/) | Hard |
+| [0053-maximum-subarray](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0062-unique-paths](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0063-unique-paths-ii/) | Medium |
 | [0070-climbing-stairs](https://github.com/KomeshBathula/LeetCode-Problems/tree/main/0070-climbing-stairs/) | Easy |
